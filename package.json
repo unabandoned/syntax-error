@@ -1,22 +1,27 @@
 {
-  "name": "syntax-error",
+  "name": "@unabandoned/syntax-error",
   "version": "1.4.0",
   "description": "detect and report syntax errors in source code strings",
   "main": "index.js",
   "dependencies": {
-    "acorn-node": "^1.2.0"
+    "acorn": "8.18.0"
   },
   "devDependencies": {
-    "tap": "^10.7.3"
+    "@commitlint/cli": "21.2.1",
+    "@commitlint/config-conventional": "21.2.0"
   },
   "scripts": {
-    "test": "tap test/*.js"
+    "prepare": "git config core.hooksPath .githooks || true",
+    "test": "node --test test/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/browserify/syntax-error.git"
+    "url": "git+https://github.com/unabandoned/syntax-error.git"
   },
-  "homepage": "https://github.com/browserify/syntax-error",
+  "bugs": {
+    "url": "https://github.com/unabandoned/syntax-error/issues"
+  },
+  "homepage": "https://github.com/unabandoned/syntax-error#readme",
   "keywords": [
     "syntax",
     "error",
@@ -31,7 +36,7 @@
     "url": "http://substack.net"
   },
   "license": "MIT",
-  "engine": {
-    "node": ">=0.6"
+  "engines": {
+    "node": ">=22.12"
   }
 }
