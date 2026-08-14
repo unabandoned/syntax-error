@@ -1,0 +1,23 @@
+schema: 1
+
+package: "@unabandoned/syntax-error"
+
+upstream:
+  repo: browserify/syntax-error
+  reason: "unmaintained upstream in the browserify ecosystem — left idle while its dependency tree ages"
+
+summary: >-
+  Detects syntax errors in a source string and reports them with file, line and
+  column context for readable build failures.
+
+why-forked: >-
+  A browserify build helper that went unmaintained while its dependency tree
+  aged; forked so Renovate keeps that tree current for consumers.
+
+status: active
+
+used-by:
+  - consumer: "@unabandoned/browserify"
+    purpose: "Produces readable syntax-error diagnostics during bundling."
+
+tags: [browserify, syntax, parser, diagnostics]
