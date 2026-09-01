@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.3](https://github.com/unabandoned/syntax-error/compare/syntax-error-v1.4.2...syntax-error-v1.4.3) (2026-08-28)
+
+
+### Dependencies & maintenance
+
+* **deps:** update unabandoned/.github action to v1.0.3 ([#12](https://github.com/unabandoned/syntax-error/issues/12)) ([d6c5012](https://github.com/unabandoned/syntax-error/commit/d6c5012b3b9f34cbd8a415f82a922481fa2af7ba))
+
 ## [1.4.2](https://github.com/unabandoned/syntax-error/compare/syntax-error-v1.4.1...syntax-error-v1.4.2) (2026-08-23)
 
 
