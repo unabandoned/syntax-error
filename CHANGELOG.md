@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.4.4](https://github.com/unabandoned/syntax-error/compare/syntax-error-v1.4.3...syntax-error-v1.4.4) (2026-09-22)
+
+
+### Dependencies & maintenance
+
+* **deps:** update unabandoned/.github action to v1.0.4 ([#14](https://github.com/unabandoned/syntax-error/issues/14)) ([078f736](https://github.com/unabandoned/syntax-error/commit/078f736b4a1137c16c0ec64a9b7586c835d20016))
+* **deps:** update unabandoned/.github action to v1.0.5 ([#16](https://github.com/unabandoned/syntax-error/issues/16)) ([946e440](https://github.com/unabandoned/syntax-error/commit/946e440ee924873ba4bb45d8db764c3c817b3512))
+* **deps:** update unabandoned/.github action to v1.1.0 ([#17](https://github.com/unabandoned/syntax-error/issues/17)) ([fe0cbb1](https://github.com/unabandoned/syntax-error/commit/fe0cbb170122b7b3069f39e9e0516c387b4f90dd))
+
 ## [1.4.3](https://github.com/unabandoned/syntax-error/compare/syntax-error-v1.4.2...syntax-error-v1.4.3) (2026-08-28)
 
 
