@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.5](https://github.com/unabandoned/syntax-error/compare/syntax-error-v1.4.4...syntax-error-v1.4.5) (2026-09-23)
+
+
+### Bug Fixes
+
+* stop dev-only commits from cutting releases ([#20](https://github.com/unabandoned/syntax-error/issues/20)) ([0c13240](https://github.com/unabandoned/syntax-error/commit/0c1324044d7e07fca9484c9e0399bb64dc51ca52))
+
 ## [1.4.4](https://github.com/unabandoned/syntax-error/compare/syntax-error-v1.4.3...syntax-error-v1.4.4) (2026-09-22)
 
 
