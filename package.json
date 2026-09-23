@@ -1,6 +1,6 @@
 {
   "name": "@unabandoned/syntax-error",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "detect and report syntax errors in source code strings",
   "main": "index.js",
   "dependencies": {
