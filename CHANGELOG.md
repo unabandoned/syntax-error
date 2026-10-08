@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.6](https://github.com/unabandoned/syntax-error/compare/syntax-error-v1.4.5...syntax-error-v1.4.6) (2026-10-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency acorn to v8.19.0 ([#26](https://github.com/unabandoned/syntax-error/issues/26)) ([0a5d834](https://github.com/unabandoned/syntax-error/commit/0a5d834cf6b0eb1489d74d31bbf906743faeaf88))
+
 ## [1.4.5](https://github.com/unabandoned/syntax-error/compare/syntax-error-v1.4.4...syntax-error-v1.4.5) (2026-09-23)
 
 
