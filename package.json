@@ -8,7 +8,7 @@
   "description": "detect and report syntax errors in source code strings",
   "main": "index.js",
   "dependencies": {
-    "acorn": "8.18.0"
+    "acorn": "8.19.0"
   },
   "devDependencies": {
     "@commitlint/cli": "21.2.3",
